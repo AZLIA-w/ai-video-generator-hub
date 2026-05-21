@@ -3,6 +3,7 @@
   "outputDirectory": "src",
   "framework": null,
   "rewrites": [
+    { "source": "/sitemap.xml", "destination": "/sitemap.xml" },
     { "source": "/(.*)", "destination": "/src/index.html" }
   ]
 }
