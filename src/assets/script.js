@@ -1,0 +1,1 @@
+console.log('AI Video Generator Hub loaded successfully');

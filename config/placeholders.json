@@ -1,0 +1,49 @@
+{
+  "placeholders": {
+    "[SITE_NAME]": "Your website name",
+    "[KEYWORD]": "The hot keyword/term you're targeting",
+    "[YOUR_DOMAIN]": "yourdomain.com",
+    "[TARGET_USERS]": "Who is this for? (e.g., content creators, developers, marketers)",
+    "[TARGET_RESULT]": "What does the tool generate? (e.g., images, text, videos)",
+    "[MAIN_FUNCTION]": "What does the tool do?",
+    "[CATEGORY]": "Category (e.g., AI tools, productivity)",
+    "[FEATURE_1]": "Feature name 1",
+    "[FEATURE_2]": "Feature name 2",
+    "[USE_CASE]": "Main use case",
+    "[FEATURE_1_DESCRIPTION]": "Description of feature 1",
+    "[FEATURE_2_DESCRIPTION]": "Description of feature 2",
+    "[FEATURE_3_DESCRIPTION]": "Description of feature 3",
+    "[FEATURE_4_DESCRIPTION]": "Description of feature 4",
+    "[TOOL_LINK]": "Link to the actual tool",
+    "[TESTIMONIAL_1]": "User testimonial 1",
+    "[TESTIMONIAL_2]": "User testimonial 2",
+    "[TESTIMONIAL_3]": "User testimonial 3",
+    "[USER_1]": "User name 1",
+    "[USER_1_TITLE]": "User title 1",
+    "[USER_2]": "User name 2",
+    "[USER_2_TITLE]": "User title 2",
+    "[USER_3]": "User name 3",
+    "[USER_3_TITLE]": "User title 3",
+    "[FAQ_1_ANSWER]": "Answer to FAQ 1",
+    "[FAQ_2_ANSWER]": "Answer to FAQ 2",
+    "[FAQ_3_ANSWER]": "Answer to FAQ 3",
+    "[FAQ_4_ANSWER]": "Answer to FAQ 4",
+    "[FAQ_5_ANSWER]": "Answer to FAQ 5"
+  },
+  "seo_checklist": {
+    "meta_title": "Include [KEYWORD] and [SITE_NAME]",
+    "meta_description": "Include [KEYWORD], max 160 chars",
+    "h1_title": "Only ONE H1, include [KEYWORD]",
+    "keyword_density": "2-5% (aim for 3%)",
+    "word_count": "Minimum 1200 words",
+    "content_sections": ["What is", "Why Choose", "How to Use", "Features", "FAQ"]
+  },
+  "quick_start": {
+    "step1": "Replace all [PLACEHOLDERS] in index.html with actual content",
+    "step2": "Fill content with real information from source.md",
+    "step3": "Check keyword density is 2-5%",
+    "step4": "Verify word count >= 1200 words",
+    "step5": "Add to GitHub and deploy to Vercel",
+    "step6": "Submit to Google Search Console"
+  }
+}
